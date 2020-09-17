@@ -12,7 +12,7 @@ pipeline {
     environment {
         //TODO: Customize these variables for your environment
         DEV_PROJECT = "waguiler-redhat-com-movies-dev"
-        STAGE_PROJECT = "waguiler-movies-stage"
+        STAGE_PROJECT = "waguiler-redhat-com-movies-stage"
         APP_GIT_URL = "https://github.com/wilmeraguilera/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-la2.prod.nextcle.com/repository/java"
 
